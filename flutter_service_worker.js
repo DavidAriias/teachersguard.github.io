@@ -3,6 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
+<<<<<<< HEAD
 const RESOURCES = {".git/COMMIT_EDITMSG": "4c6f9758bde215c556ab130a45d38c9d",
 ".git/config": "43497b3190923647c894ae8bf77d675a",
 ".git/description": "a0a7c3fff21f2aea3cfa1d0316dd816c",
@@ -80,6 +81,9 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "4c6f9758bde215c556ab130a45d38c9d",
 ".git/refs/heads/main": "dd00a0269a5f7d01604b14c0483cfe6c",
 ".git/refs/remotes/origin/main": "dd00a0269a5f7d01604b14c0483cfe6c",
 "assets/AssetManifest.bin": "37adfbef138fd89ac6e39672c8b7e6e6",
+=======
+const RESOURCES = {"assets/AssetManifest.bin": "37adfbef138fd89ac6e39672c8b7e6e6",
+>>>>>>> c776882 (four  commit)
 "assets/AssetManifest.bin.json": "b8c91eed0355021905710d185bf39f18",
 "assets/AssetManifest.json": "1f2493b801b333320cfe1577f0025a79",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
@@ -104,8 +108,13 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "4c6f9758bde215c556ab130a45d38c9d",
 "icons/Icon-512.png": "47e515c9947efc4facf8afd8fc08f395",
 "icons/Icon-maskable-192.png": "ab91a9fc81c4d06e49d54f3b3f3969f1",
 "icons/Icon-maskable-512.png": "47e515c9947efc4facf8afd8fc08f395",
+<<<<<<< HEAD
 "index.html": "8a5c68b5a5b088d13eb773df2c1e9373",
 "/": "8a5c68b5a5b088d13eb773df2c1e9373",
+=======
+"index.html": "f67981efbd052fd58f9e272d3142d689",
+"/": "f67981efbd052fd58f9e272d3142d689",
+>>>>>>> c776882 (four  commit)
 "main.dart.js": "052e5df2948e98f99854cb4d3a3dd41c",
 "manifest.json": "88b7f2f66143a4aa2e4572e72150dd69",
 "splash/img/dark-1x.png": "e5bfc438a8c5b5eaca3e11eff0b7a499",
