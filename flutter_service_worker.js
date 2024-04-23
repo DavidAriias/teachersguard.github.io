@@ -3,6 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
+<<<<<<< HEAD
 const RESOURCES = {".git/COMMIT_EDITMSG": "dadac65498f406f6487e9a5f26edf926",
 ".git/config": "0ffda7f67e7ccedfcec10c0d3998bd57",
 ".git/description": "a0a7c3fff21f2aea3cfa1d0316dd816c",
@@ -83,6 +84,20 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "dadac65498f406f6487e9a5f26edf926",
 "assets/lib/assets/header_v2.jpg": "5817d39507c9bef531abf3bd0127b1ba",
 "assets/lib/assets/reconocimiento.jpg": "2abc2d5f3249f555e4bce5f9f6920479",
 "assets/NOTICES": "7a8a3088b47734863b4b28173420655c",
+=======
+const RESOURCES = {"assets/AssetManifest.bin": "3e57d606e7cf38ec2911aa429fe82c55",
+"assets/AssetManifest.bin.json": "2b22a01c5da6deda7a2f29efbe8aec9a",
+"assets/AssetManifest.json": "046a04ee5e12f186cb585e27cd344c30",
+"assets/FontManifest.json": "4c1f372f19db9febba5e53e3d253d18f",
+"assets/fonts/MaterialIcons-Regular.otf": "7177dbac08bcd9ec5e30bb25a094c7f5",
+"assets/lib/assets/avatar.png": "44feaafc87215076e5eb5df5328d38a5",
+"assets/lib/assets/fonts/poppins/Poppins-Regular.ttf": "093ee89be9ede30383f39a899c485a82",
+"assets/lib/assets/header_v1.jpg": "8447fe83a3467fb7412b61d8b5d9ced8",
+"assets/lib/assets/header_v2.jpg": "5817d39507c9bef531abf3bd0127b1ba",
+"assets/lib/assets/icon/icon.jpg": "45488be75b4d587cec5c7d4b54ef5aa9",
+"assets/lib/assets/reconocimiento.jpg": "2abc2d5f3249f555e4bce5f9f6920479",
+"assets/NOTICES": "1b914500b050781ca4c8e1ab0bac2db3",
+>>>>>>> 289e826 (Update en errores)
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
 "assets/shaders/ink_sparkle.frag": "4096b5150bac93c41cbc9b45276bd90f",
 "canvaskit/canvaskit.js": "eb8797020acdbdf96a12fb0405582c1b",
@@ -98,10 +113,17 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "dadac65498f406f6487e9a5f26edf926",
 "icons/Icon-512.png": "47e515c9947efc4facf8afd8fc08f395",
 "icons/Icon-maskable-192.png": "ab91a9fc81c4d06e49d54f3b3f3969f1",
 "icons/Icon-maskable-512.png": "47e515c9947efc4facf8afd8fc08f395",
+<<<<<<< HEAD
 "index.html": "c2a032728382661c8bab7abbc4b0b677",
 "/": "c2a032728382661c8bab7abbc4b0b677",
 "main.dart.js": "a452f64830fe50351926255d038885ab",
 "manifest.json": "88b7f2f66143a4aa2e4572e72150dd69",
+=======
+"index.html": "83eff9538f39a884809f785e933955c6",
+"/": "83eff9538f39a884809f785e933955c6",
+"main.dart.js": "e451e31f7b391892f2fccbd197c35445",
+"manifest.json": "e0c8d89c73ba8d47caf8f99cf5f7870e",
+>>>>>>> 289e826 (Update en errores)
 "splash/img/dark-1x.png": "e5bfc438a8c5b5eaca3e11eff0b7a499",
 "splash/img/dark-2x.png": "47e515c9947efc4facf8afd8fc08f395",
 "splash/img/dark-3x.png": "31dd7c8fce37ad8a6bbc22ffaf054bf8",

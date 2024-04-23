@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"lib/assets/avatar.png":["lib/assets/avatar.png"],"lib/assets/header_v1.jpg":["lib/assets/header_v1.jpg"],"lib/assets/header_v2.jpg":["lib/assets/header_v2.jpg"],"lib/assets/reconocimiento.jpg":["lib/assets/reconocimiento.jpg"],"packages/cupertino_icons/assets/CupertinoIcons.ttf":["packages/cupertino_icons/assets/CupertinoIcons.ttf"]}
+=======
+{"lib/assets/avatar.png":["lib/assets/avatar.png"],"lib/assets/fonts/poppins/Poppins-Regular.ttf":["lib/assets/fonts/poppins/Poppins-Regular.ttf"],"lib/assets/header_v1.jpg":["lib/assets/header_v1.jpg"],"lib/assets/header_v2.jpg":["lib/assets/header_v2.jpg"],"lib/assets/icon/icon.jpg":["lib/assets/icon/icon.jpg"],"lib/assets/reconocimiento.jpg":["lib/assets/reconocimiento.jpg"],"packages/cupertino_icons/assets/CupertinoIcons.ttf":["packages/cupertino_icons/assets/CupertinoIcons.ttf"]}
+>>>>>>> 289e826 (Update en errores)
